@@ -3,7 +3,7 @@
 one:
   iname: MyString
   description: MyText
-  stock: 
+  stock: 1
   image: MyString
   price: 9.99
   category: MyString
@@ -11,7 +11,7 @@ one:
 two:
   iname: MyString
   description: MyText
-  stock: 
+  stock: 1
   image: MyString
   price: 9.99
   category: MyString

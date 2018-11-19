@@ -3,7 +3,7 @@ class CreateItems < ActiveRecord::Migration[5.2]
     create_table :items do |t|
       t.string :iname
       t.text :description
-      t.int :stock
+      t.integer :stock
       t.string :image
       t.decimal :price
       t.string :category
